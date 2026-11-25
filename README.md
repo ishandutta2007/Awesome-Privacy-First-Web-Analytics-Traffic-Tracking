@@ -70,9 +70,9 @@ The table below highlights leading hosted solutions, ordered by company scale (*
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading self-hosted and open-source web telemetry engines, ranked in **descending order by GitHub star count**. Each star badge links directly to that repository's stargazers community:
+Explore the leading self-hosted and open-source web telemetry engines, ranked in **descending order by GitHub Stars_Count**. Each Stars_Badge links directly to that repository's stargazers community:
 
-| Repository & Link | Stars | Technology Stack | License | Description & Architectural Highlights |
+| Repository & Link | GitHub_Stars | Technology Stack | License | Description & Architectural Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Netdata](https://github.com/netdata/netdata)** | [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) | C, Go, Python | GPL-3.0 | Real-time performance, traffic monitoring, and server-side request observability with zero frontend JavaScript and sub-second metrics. |
 | **[PostHog Core](https://github.com/PostHog/posthog)** | [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Python, TypeScript, ClickHouse | MIT | Full-featured product and analytics platform with cookieless tracking modes, session replays, feature flags, and real-time event ingestion. |
@@ -147,7 +147,7 @@ We welcome additions, corrections, and improvements from developers, privacy adv
 1. 🍴 **Fork the repository** to your personal GitHub account.
 2. 📝 **Add or modify entries** in `README.md`:
    - For SaaS products: Include Name, Link, Company Scale, Pricing, Free Tier / Trial limits, and Features.
-   - For Open-Source: Include Name, GitHub repo link, Social star badge, Stack, License, and Description. Keep the table sorted by GitHub stars descending.
+   - For Open-Source: Include Name, GitHub repo link, Social Stars_Badge, Stack, License, and Description. Keep the table sorted by GitHub_Stars descending.
 3. ✅ **Ensure factual accuracy** and verify links to official documentation or repositories.
 4. 🚀 **Submit a Pull Request** with a clear description of your update.
 
